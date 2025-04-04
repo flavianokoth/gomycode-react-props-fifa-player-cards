@@ -13,7 +13,7 @@ This project is a React app that displays FIFA player cards using React componen
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/flavianokoth/gomycode-react-props-fifa-player-card.git
+   git clone https://github.com/flavianokoth/gomycode-react-props-fifa-player-cards.git
    ```
 
 2. Navigate to the project directory:
